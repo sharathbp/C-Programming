@@ -1,4 +1,7 @@
 # C-Graphics
+
+![taj](https://user-images.githubusercontent.com/32369302/46990817-b6277d00-d120-11e8-861b-f394ddfbeaea.gif)
+
 void cleardevice();
 void graphdefaults();
 char *grapherrormsg( int errorcode );
